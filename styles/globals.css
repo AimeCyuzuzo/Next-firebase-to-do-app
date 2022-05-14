@@ -1,0 +1,23 @@
+
+
+.parent{
+  background: rgba(0, 28, 54, 98%);
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: -999;
+}
+.homeParent{
+  text-align: center;
+}
+.addtodo button{
+  display: inline;
+}
+
+
+
+header{
+  background: rgb(0, 20, 39);
+}
